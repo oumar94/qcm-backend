@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QcmBackend", "QcmBackend\QcmBackend.csproj", "{B67D9DD3-B130-44BB-8824-356720B571D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B67D9DD3-B130-44BB-8824-356720B571D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67D9DD3-B130-44BB-8824-356720B571D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67D9DD3-B130-44BB-8824-356720B571D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67D9DD3-B130-44BB-8824-356720B571D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2AB7597-499A-489E-BB7F-88505DA3D46D}
+	EndGlobalSection
+EndGlobal
